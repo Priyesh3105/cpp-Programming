@@ -1,1 +1,4 @@
-.exe
+*.exe
+first.cpp
+demo.cpp
+.vscode
