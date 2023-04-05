@@ -1,4 +1,7 @@
 *.exe
 first.cpp
 demo.cpp
-.vscode
+tempCodeRunnerFile.cpp
+settings.json
+task.json
+.gitignore
